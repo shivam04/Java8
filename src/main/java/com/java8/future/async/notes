@@ -1,0 +1,2 @@
+Most methods of the fluent API in the CompletableFuture class have two additional variants with the Async postfix.
+These methods are usually intended for running a corresponding execution step in another thread.
